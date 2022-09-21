@@ -2,7 +2,6 @@ class Test:
     def __init__(self):
         pass
 
-
     def printMessage(self):
         print("printMessage")
 
