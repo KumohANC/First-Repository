@@ -1,13 +1,5 @@
-class Test:
-    def __init__(self):
-        pass
-
-    def printMessage(self):
-        print("printMessage")
-
-def main():
-    test = Test()
-    test.printMessage()
-
+def printM():
+    print("hello world")
+    
 if __name__ == '__main__':
-    main()
+    printM()
