@@ -1,4 +1,4 @@
-import max_profit as mp
+eimport max_profit as mp
 import prime_number as pn
 
 if __name__ == '__main__':
